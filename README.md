@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Vanessa! 💜
 
-<!--
-**darkv314/darkv314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a song/album rater for spotify 🎧
+- 🌱 I’m currently learning the tricky sides of Javascript and the advanced parts of Angular 
+- 🤔 I’m looking for help with designs for my next projects!
+- 💬 Ask me about my favorite song 🎵
+- 📫 How to reach me:
+    - Email: vanetejerina314@gmail.com
+    - LinkedIn: https://www.linkedin.com/in/vanessa-tejerina
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I like to play the guitar but I also love nails so I can't do both sadly
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
